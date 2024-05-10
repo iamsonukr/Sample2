@@ -1,0 +1,5 @@
+- 🔭 I'm currently working on building a full-stack web application
+- 🌱 I'm learning React Native to dive into mobile app development
+- 💬 Ask me about JavaScript, React, Node.js, and MongoDB
+- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- ⚡ Fun fact: I love playing chess and solving coding puzzles
